@@ -1,4 +1,3 @@
-## Hi there 👋
 # Apselene
 
 ## Hello and Welcome
